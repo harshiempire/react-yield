@@ -114,7 +114,7 @@ const PredictYield = () => {
       })
       .catch((error) => {
         // Handle any errors
-        console.error("Error:", error);
+        console.error("Error is :", error);
       });
   };
 
